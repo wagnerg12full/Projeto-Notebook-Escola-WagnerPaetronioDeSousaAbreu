@@ -75,7 +75,13 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição e implement
 
 ## 6. Benefícios Esperados
 
-A aquisição dos novos notebooks trará impactos significativos para toda a comunidade escolar:
+A renovação do parque tecnológico da Escola através da aquisição desses equipamentos só trará benefícios. Dentre eles podemos citar:
+
+**Flexibilidade do aprendizado:** Os alunos serão beneficiados com a flexibilidade do ensino hibrido, conciliando encontros presenciais (onde as dúvidas do conteúdo transmitido podem ser dirimidas) e encontros online, através das atividades, chats e fóruns.
+**Incremento na capacidade de expansão de conhecimento:** Os equipamentos mais robustos aumentarão o leque de possibilidades para o aprendizado por parte dos alunos, quer seja no âmbito de acompanhar as tendências da tecnologia, ou no aprofundamento de conhecimentos anteriormente adquiridos, onde não havia a possibilidade de experimentação, devido às limitações de hardware e software já citadas anteriormente.
+**Otimização do tempo de aula:** Os professores enfim conseguirão focar seus esforços no que realmente interessa: transmitir o connhecimento teórico e instigar os alunos por meio da experimentação e aplicação prática computacional.
+**Mitigação de riscos técnicos:** Redução de problemas derivados principalmente de oscilações ou quedas de energia, que estão entre as principais causas de danos nos equipamentos. 
+**Economia de energia**
 
 * **Para os Alunos:**
     * **Mobilidade Aprimorada:** Possibilidade de levar o notebook para diferentes aulas, projetos em grupo na biblioteca ou áreas de estudo colaborativo.
