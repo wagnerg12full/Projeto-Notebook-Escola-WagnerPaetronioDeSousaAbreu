@@ -1,18 +1,18 @@
-# Projeto de Modernização Tecnológica: Aquisição de Notebooks para o Ensino Híbrido no Polo Caucaia
+# Projeto de modernização do parque tecnológico: Aquisição de notebooks para a Escola de Ensino Prossionalizante Mundo do Saber
 
 ---
 
 ## 1. Resumo Executivo
 
-Este projeto propõe a aquisição de **30 notebooks** para o Polo Caucaia, visando substituir os desktops obsoletos nos laboratórios e expandir as possibilidades de aprendizado para um modelo de ensino mais flexível e híbrido. A iniciativa busca equipar os alunos com ferramentas modernas e portáteis, essenciais para o desenvolvimento de habilidades digitais e para a adaptação às novas metodologias de ensino. A mobilidade dos notebooks otimizará o uso dos recursos tecnológicos em diferentes ambientes escolares e preparará os alunos para os desafios do mercado de trabalho, com um **investimento total estimado em R$ 165.750,00**.
+O objetivo deste projeto de aquisição de **30 notebooks** para a Escola de Ensino Prossionalizante Mundo do Saber, é a renovação do parque tecnológico da desta; em uma realidade onde há grande demanda por profissionais qualificados, faz-se necessário prover aos nossos alunos todos os recursos físicos, técnicos e humanos possíveis para alcançar esse nível desejado de qualificação. O fato desse projeto de aquisição tratar dessa modalidade de equipamento, visa proporcionar praticidade e sustentabilidade, uma vez que os atuais computadores desktop já estão em nível de obsolescência tal que não conseguem mais acompanhar a evolução das ferramentas tecnológicas que compõem o currículo escolar da Instiuição.**O montante de investimento para esse projeto é de 165.750,00 (CENTO E SESSENTA E CINCO MIL E SETECENTOS E CINQUENTA REAIS)**
 
 ---
 
 ## 2. Introdução e Justificativa
 
-O Laboratório de Informática do Polo Caucaia, um pilar para o ensino de tecnologia e para diversas disciplinas, conta atualmente com 25 computadores desktop com mais de sete anos de uso. Esses equipamentos apresentam desempenho comprometido, com processadores e memória RAM insuficientes para executar softwares educacionais modernos, ferramentas de programação e aplicações de simulação. A baixa performance e a restrição de uso a um único laboratório limitam a flexibilidade pedagógica e impedem a integração da tecnologia em outros espaços de aprendizado.
+Em tempos pretéritos, a Escola de Ensino Prossionalizante Mundo do Saber foi conhecida por possuir a melhor estrutura de tecnologia de ensino da região e adjacências. Encontrava-se na vanguarda da inovação. Nossos alunos eram premiados nas mais diversas competições de tecnologia. De (pelo menos) cinco anos até então, a Instituição aos poucos foi sendo ultrapassada por concorrentes com menor poder aquisitivo; houve um êxodo em massa motivado pela falta de modernização do nosso Laboratório. Os sintomas eram óbvios: computadores obsoletos, baixo poder de processamento e memória, falta de peças de reposição e, não menos importante, softwares defasados ou aquém da realidade.
 
-A substituição desses desktops por notebooks modernos e portáteis é crucial. Além de resolver os problemas de desempenho, a mobilidade dos notebooks permitirá que as aulas de computação sejam realizadas em diferentes salas, que projetos de grupo ocorram em áreas colaborativas e que a tecnologia seja integrada de forma mais fluida ao dia a dia da escola. Essa mudança apoiará o ensino híbrido, que combina atividades presenciais e remotas, e garantirá que o Polo Caucaia ofereça uma educação de ponta, preparando seus alunos para as dinâmicas tecnológicas atuais.
+É de vital importância a substiuição dos atuais computadores desktop por notebooks. O primeiro motivo está ligado à praticidade. A ministração das aulas não fica restrita a uma única sala; em segundo lugar, computadores desktop são muito suscetíveis a danos técnicos devido a quedas de energia inesperadas. Em terceiro lugar, é um grande benefício ao aprendizado de novas tecnologias, uma vez que o material tecnológico proposto está inserido no que existe de mais moderno hoje em dia.
 
 ---
 
@@ -20,9 +20,9 @@ A substituição desses desktops por notebooks modernos e portáteis é crucial.
 
 Os objetivos específicos desta aquisição são:
 
-* **1. Promover Mobilidade e Flexibilidade:** Permitir que as atividades de computação e pesquisa possam ser realizadas em qualquer sala de aula, biblioteca ou espaço de estudo do Polo Caucaia, sem a dependência de um laboratório fixo.
-* **2. Aumentar o Desempenho Computacional:** Reduzir em **80% o tempo de carregamento** de softwares complexos (ex: ambientes de desenvolvimento, editores de vídeo e modelagem 3D) e garantir a fluidez na execução de múltiplos aplicativos simultaneamente.
-* **3. Apoiar Novas Metodologias de Ensino:** Viabilizar projetos interdisciplinares e a implementação de recursos de ensino híbrido e remoto, com acesso a plataformas online de forma eficiente.
+* **1. Redução no consumo de energia:** Um notebook consome muito menos energia que um computador desktop.
+* **2. Melhor aproveitamento e ganho de desempenho:** Hoje perde-se muito tempo de aula em carregar softwares de desenvolvimento. O conteúdo proposto por aula nem sempre é alcançado, justamente por causa do tempo de carga dos softwares.
+* **3. Apoio à inovação:** Novos projetos são desevolvidos todos os meses por nossos alunos. Quanto mais o nosso aluno tiver de ferramentas ao seu alcance para desenvolver novos projetos, mais a Instituição tem a ganhar; isso resultará em um aumento de sua boa reputação como formadora e transformadora da sociedade de um modo geral.
 * **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os desktops atuais, além de otimizar o espaço físico.
 * **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis que espelham o ambiente de trabalho profissional e universitário contemporâneo.
 
