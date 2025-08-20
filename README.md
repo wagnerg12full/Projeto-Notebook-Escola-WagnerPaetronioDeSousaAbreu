@@ -41,14 +41,14 @@ A seguir, seguem as especificações técnicas que detalham um conjunto mínimo 
 | **Tela** | 15.6" Full HD IPS                            | 15.6" Full HD IPS com alta fidelidade de cor       |
 | **Placa de Vídeo** | Integrada de alta performance (Intel Iris Xe ou AMD Radeon Graphics) | Dedicada (NVIDIA GeForce RTX 3050/4050 ou AMD Radeon RX) |
 | **Bateria** | Mínimo de 8 horas de uso típico            | 10 horas ou mais de uso típico                     |
-| **Sistema Operacional**| Windows 11 Pro ou Ubuntu LTS               | Windows 11 Pro                                     |
+| **Sistema Operacional**| Ubuntu LTS               | Ubuntu LTS                                     |
 | **Conectividade** | Wi-Fi 6 (802.11ax), Bluetooth 5.2          | Wi-Fi 6E (802.11axe), Bluetooth 5.3                |
 | **Portas** | 1x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI | 2x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI, Leitor de cartão |
 | **Peso** | Até 1.8 kg                                 | Até 1.6 kg (Chassi premium/resistente)             |
 
 A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
 
-![Exemplo de Notebook de Alto Desempenho](https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=606&qlt=100,1&resMode=sharp2&size=606,402&chrss=full)
+![Imagem meramente ilustrativa de um notebook para o laboratório](https://br-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/p/hp_250r_g_2_1.png)
 
 *Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
 
