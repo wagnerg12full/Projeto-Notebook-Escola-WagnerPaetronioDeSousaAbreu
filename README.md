@@ -20,17 +20,18 @@ Em tempos pretéritos, a Escola de Ensino Prossionalizante Mundo do Saber foi co
 
 Os objetivos específicos desta aquisição são:
 
-* **1. Redução no consumo de energia:** Um notebook consome muito menos energia que um computador desktop.
-* **2. Melhor aproveitamento e ganho de desempenho:** Hoje perde-se muito tempo de aula em carregar softwares de desenvolvimento. O conteúdo proposto por aula nem sempre é alcançado, justamente por causa do tempo de carga dos softwares.
+* **1. Redução no consumo de energia:** Um notebook consome cerca de **30%** de energia a menos que um computador desktop. Um incidente de queda de energia não afetará um equipamento que possui sua própria bateria.
+* **2. Melhor aproveitamento e ganho de desempenho:** Hoje perde-se muito tempo de aula em carregar softwares de desenvolvimento. O conteúdo proposto para a aula nem sempre é alcançado, justamente por causa do tempo de carga dos softwares.
 * **3. Apoio à inovação:** Novos projetos são desevolvidos todos os meses por nossos alunos. Quanto mais o nosso aluno tiver de ferramentas ao seu alcance para desenvolver novos projetos, mais a Instituição tem a ganhar; isso resultará em um aumento de sua boa reputação como formadora e transformadora da sociedade de um modo geral.
-* **4. Reduzir Custos Operacionais:** Diminuir o consumo de energia elétrica em aproximadamente **30%** em comparação com os desktops atuais, além de otimizar o espaço físico.
-* **5. Preparar para o Futuro:** Fornecer aos alunos acesso a ferramentas portáteis que espelham o ambiente de trabalho profissional e universitário contemporâneo.
+* **4. Otimização de espaços:** Um computador desktop demanda bem mais espaço físico que um portátil. O uso de notebooks propicia melhor aproveitamento e otimização do espaço destinado à aula.
+* **5. Projetar nossos alunos a maiores desafios:** Disponibilizar o acesso a melhores ferramentas propicia aos nosso alunos um aumento de oportunidades para transformar e empreender.
 
 ---
 
-## 4. Especificações Técnicas dos Notebooks
+## 4. Especificações Técnicas
 
-As especificações abaixo detalham os requisitos mínimos e recomendados para os notebooks a serem adquiridos, visando o equilíbrio entre performance, custo e portabilidade. Com o aumento do valor, é possível considerar equipamentos com características superiores, como maior capacidade de processamento gráfico ou telas de maior qualidade.
+A seguir, seguem as especificações técnicas que detalham um conjunto mínimo aceitável, e recomendável para a configuração de cada um dos notebooks. Foram elaboradas  configurações que refletissem a melhor relação de equilíbrio entre custo-benefícioe e performance. Vale lembrar que as especificações aqui apresentadas não representam um escopo fechado; dependendo do desejo da Instiuição, pode haver um incremento de qualquer um dos quesitos; isso implicará em aumento no valor final da proposta.
+
 
 | Componente           | Mínimo                                     | Recomendado                                        |
 | :------------------- | :----------------------------------------- | :------------------------------------------------- |
