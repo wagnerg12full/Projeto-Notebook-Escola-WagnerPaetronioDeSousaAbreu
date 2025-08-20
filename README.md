@@ -30,7 +30,7 @@ Os objetivos específicos desta aquisição são:
 
 ## 4. Especificações Técnicas
 
-A seguir, seguem as especificações técnicas que detalham um conjunto mínimo aceitável, e recomendável para a configuração de cada um dos notebooks. Foram elaboradas  configurações que refletissem a melhor relação de equilíbrio entre custo-benefícioe e performance. Vale lembrar que as especificações aqui apresentadas não representam um escopo fechado; dependendo do desejo da Instiuição, pode haver um incremento de qualquer um dos quesitos; isso implicará em aumento no valor final da proposta.
+A seguir, seguem as especificações técnicas que detalham um conjunto mínimo aceitável, e recomendável para a configuração de cada um dos notebooks. Foram elaboradas  configurações que refletissem a melhor relação de equilíbrio entre custo-benefícioe e performance. Vale lembrar que as especificações aqui apresentadas não representam um escopo fechado; dependendo do desejo da Instituição, pode haver um incremento de qualquer um dos quesitos; isso implicará em aumento no valor final da proposta.
 
 
 | Componente           | Mínimo                                     | Recomendado                                        |
@@ -46,13 +46,13 @@ A seguir, seguem as especificações técnicas que detalham um conjunto mínimo 
 | **Portas** | 1x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI | 2x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI, Leitor de cartão |
 | **Peso** | Até 1.8 kg                                 | Até 1.6 kg (Chassi premium/resistente)             |
 
-A imagem a seguir representa o tipo de notebook que atenderia às necessidades do nosso projeto, focando em portabilidade e desempenho superior:
+A seguir, uma imagem meramente ilustrativa de um notebook ccontendo as configurações compatíveis para o laboratório da Escola
 
 ![Imagem meramente ilustrativa de um notebook para o laboratório](https://br-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/p/hp_250r_g_2_1.png)
 
-*Representação visual de um notebook moderno, potente e portátil, ideal para o ambiente educacional exigente.*
+*Uma representação visual de um notebook adequado à necessidade de uma laboratório de tecnologia de uma escola profissionalizante*
 
-Para mais detalhes sobre as especificações de notebooks e suas aplicações em ambientes educacionais, consulte o artigo da Intel sobre [Tecnologia na Educação](https://www.intel.com.br/content/www/br/pt/education/solutions/overview.html). Além disso, a importância da mobilidade no aprendizado é destacada em estudos como este da Microsoft: [O Futuro do Trabalho e do Aprendizado](https://www.microsoft.com/pt-br/education/resource-library/transforming-education-insights). *(Obs: Os links são exemplos e devem ser substituídos por links reais e relevantes.)*
+A título de informação, é valido ressaltar a importância que toda escola profissionalizante deve dar quando se fala em investir em tecnologia para a educação: [Tecnologia na escola: porque é fundamental e como aplicar na prática?](https://movplan.com.br/blog/tecnologia-na-escola-porque-e-fundamental-e-como-aplicar-na-pratica/). Veja também o seguinte artigo que trata sobre questão de mobilidade quando o assunto é notebook [Notebooks são uma ótima opção para a mobilidade dentro de sua empresa](https://microexato.com.br/notebooks-sao-uma-otima-opcao-para-a-mobilidade-dentro-de-sua-empresa/).
 
 ---
 
