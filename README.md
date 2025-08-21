@@ -4,11 +4,7 @@
 
 ## 1. Resumo Executivo
 
-O objetivo deste projeto de aquisição de **30 notebooks** para a Escola de Ensino Prossionalizante Mundo do Saber, é a renovação do parque tecnológico desta; em uma realidade onde há grande demanda por profissionais qualificados, faz-se necessário prover aos alunos todos os recursos físicos, tecnológicos e humanos possíveis para alcançar esse nível desejado de qualificação. O fato desse projeto de aquisição tratar desse tipo de equipamento, visa proporcionar praticidade e sustentabilidade, uma vez que os atuais computadores desktop já estão em nível de obsolescência tal que não conseguem mais acompanhar a evolução das ferramentas tecnológicas que compõem o currículo escolar da Instiuição.**O montante de investimento para esse projeto é de 165.750,00 (CENTO E SESSENTA E CINCO MIL E SETECENTOS E CINQUENTA REAIS).**
-
-    <p style="text-align: justify;">
-    Este é um parágrafo de exemplo que será justificado. O texto se alinha tanto à esquerda quanto à direita, preenchendo o espaço de forma mais uniforme.
-    </p>
+O objetivo deste projeto de aquisição de **30 notebooks** para a Escola de Ensino Prossionalizante Mundo do Saber, é a renovação do parque tecnológico desta; em uma realidade onde há grande demanda por profissionais qualificados, faz-se necessário prover aos alunos todos os recursos físicos, tecnológicos e humanos possíveis para alcançar esse nível desejado de qualificação. O fato desse projeto de aquisição tratar desse tipo de equipamento, visa proporcionar praticidade e sustentabilidade, uma vez que os atuais computadores desktop já estão em nível de obsolescência tal que não conseguem mais acompanhar a evolução das ferramentas tecnológicas que compõem o currículo escolar da Instiuição. **O montante de investimento para esse projeto é de 165.750,00 (CENTO E SESSENTA E CINCO MIL E SETECENTOS E CINQUENTA REAIS).**
 
 ---
 
