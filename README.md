@@ -72,12 +72,6 @@ A tabela abaixo apresenta uma estimativa de custo para a aquisição dos noteboo
 | **TOTAL GERAL ESTIMADO** |            |                               | **165.750,00** |
 
 ---
-* Topico 1
-  * Subtopico
-  * Subtopico
-    * Item do subtopico
-    * OUtro item do subtopico
-  * Subtopico
 
 ## 6. Benefícios Esperados
 
