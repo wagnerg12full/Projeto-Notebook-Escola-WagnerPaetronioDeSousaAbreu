@@ -20,11 +20,11 @@ Em tempos pretéritos, a Escola de Ensino Profissionalizante Mundo do Saber fora
 
 Os objetivos específicos desta aquisição são:
 
-* **1. Redução no consumo de energia:** Um notebook consome cerca de **30%** de energia a menos que um computador desktop. Além disso, um incidente de queda de energia não afetará um equipamento que possui sua própria bateria.
+* **1. Redução no consumo de energia e riscos técnicos:** Um notebook consome cerca de **30%** de energia a menos que um computador desktop. Além disso, um incidente de queda de energia não afetará um equipamento que possui sua própria bateria.
 * **2. Melhor aproveitamento e ganho de desempenho:** Atualmente, perde-se muito tempo de aula só em carregar softwares de desenvolvimento. O conteúdo proposto para a aula nem sempre é alcançado, justamente por causa do tempo de carga dos softwares.
 * **3. Apoio à inovação:** Novos projetos são desenvolvidos todos os meses pelos alunos. Quanto mais o estudante de tecnologia tiver de ferramentas ao seu alcance para desenvolver novos projetos, mais a Instituição tem a ganhar; isso resultará em um aumento de sua boa reputação como formadora e transformadora da sociedade de um modo geral.
 * **4. Otimização de espaços:** Um computador desktop demanda bem mais espaço físico que um portátil. O uso de notebooks propicia melhor aproveitamento e otimização do espaço destinado à aula.
-* **5. Projetar nossos alunos a maiores desafios:** Disponibilizar o acesso a melhores ferramentas propicia aos alunos um aumento de oportunidades para transformar e empreender.
+* **5. Projetar nossos alunos a maiores desafios:** Disponibilizar o acesso a melhores ferramentas proporciona aos alunos um aumento de oportunidades para transformar e empreender.
 
 ---
 
