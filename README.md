@@ -52,7 +52,7 @@ A seguir, uma imagem meramente ilustrativa de um notebook ccontendo as configura
 
 *Uma representação visual de um notebook adequado à necessidade de uma laboratório de tecnologia de uma escola profissionalizante*
 
-A título de informação, é valido ressaltar a importância que toda escola profissionalizante deve dar quando se fala em investir em tecnologia para a educação. O artigo [Tecnologia na escola: porque é fundamental e como aplicar na prática?](https://movplan.com.br/blog/tecnologia-na-escola-porque-e-fundamental-e-como-aplicar-na-pratica/) traz um panorama da importância da tecnologia no ambiente escolar. O artigo [Notebooks são uma ótima opção para a mobilidade dentro de sua empresa](https://microexato.com.br/notebooks-sao-uma-otima-opcao-para-a-mobilidade-dentro-de-sua-empresa/) trata sobre questão de mobilidade quando o assunto é notebook.
+A título de informação, é valido ressaltar a importância que toda escola profissionalizante deve dar quando se fala em investir em tecnologia para a educação. O artigo [Tecnologia na escola: porque é fundamental e como aplicar na prática?](https://movplan.com.br/blog/tecnologia-na-escola-porque-e-fundamental-e-como-aplicar-na-pratica/) traz um panorama da importância da tecnologia no ambiente escolar. O artigo [Notebooks são uma ótima opção para a mobilidade dentro de sua empresa](https://microexato.com.br/notebooks-sao-uma-otima-opcao-para-a-mobilidade-dentro-de-sua-empresa/) trata sobre questão de mobilidade em se tratando de dispositivos portáteis.
 
 ---
 
