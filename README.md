@@ -46,7 +46,7 @@ A seguir, seguem as especificações técnicas que detalham um conjunto mínimo 
 | **Portas** | 1x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI | 2x USB-C (Thunderbolt 4), 2x USB-A 3.0, HDMI, Leitor de cartão |
 | **Peso** | Até 1.8 kg                                 | Até 1.6 kg (Chassi premium/resistente)             |
 
-A seguir, uma imagem meramente ilustrativa de um notebook ccontendo as configurações compatíveis para o laboratório da Escola
+A seguir, uma imagem meramente ilustrativa de um notebook ccontendo as configurações compatíveis para a realidade da Escola
 
 ![Imagem meramente ilustrativa de um notebook para o laboratório](https://br-media.hptiendaenlinea.com/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/h/p/hp_250r_g_2_1.png)
 
